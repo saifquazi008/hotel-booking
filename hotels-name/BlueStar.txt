@@ -1,0 +1,4 @@
+# BlueStar
+it is famous hotel in panjab.
+24hr room price = 8000
+
